@@ -1,7 +1,7 @@
 # FFMPEG Starter
 
 ## Requirements :
-- sudo apt install build-essential gcc g++ ninja-build cmake ffmpeg
+- sudo apt install build-essential gcc g++ ninja-build cmake ffmpeg pkg-config
 
 ## Usage:
 - Clone
